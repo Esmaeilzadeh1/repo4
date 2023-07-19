@@ -1,5 +1,5 @@
 # *R-FCN*: Object Detection via Region-based Fully Convolutional Networks
-
+**************************************************************************
 By Jifeng Dai, Yi Li, Kaiming He, Jian Sun
 
 **It is highly recommended to use the [deformable R-FCN](https://github.com/msracver/Deformable-ConvNets) implemented in MXNet, which significantly increases the accuracy at very low extra computational overhead.**
